@@ -1,6 +1,5 @@
 import java.util.Arrays;
 public class heapSort{
-<<<<<<< HEAD
 
     static String[] heap;
     static int size;
@@ -106,8 +105,6 @@ public class heapSort{
 
 
  
-=======
->>>>>>> 62e7252 (commit to submit)
 
     static String[] heap;
     static int size;
